@@ -32,14 +32,11 @@ I am Harsh Raj Singh, a passionate learner and developer. I enjoy working on C P
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Main stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Buildnlearn-x &show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buildnlearn-x &theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buildnlearn-x&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00E1&icon_color=00E5FF&text_color=FFFFFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildnlearn-x&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00E1&text_color=FFFFFF" height="170" />
 </p>
 
 ### 🎴 Holopin Badges
