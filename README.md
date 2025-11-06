@@ -42,6 +42,13 @@ I am Harsh Raj Singh, a passionate learner and developer. I enjoy working on C P
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buildnlearn-x &theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+### 🎴 Holopin Badges
+<p align="center">
+  <a href="https://holopin.io/@buildnlearnx">
+    <img src="https://holopin.me/buildnlearnx" style="width:100%;" />
+  </a>
+</p>
+
 
 
 <p align="center">
