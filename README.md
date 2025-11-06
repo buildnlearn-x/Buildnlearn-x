@@ -42,15 +42,6 @@ I am Harsh Raj Singh, a passionate learner and developer. I enjoy working on C P
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buildnlearn-x &theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <!-- Top languages (compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buildnlearn-x &layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Trophies / achievements -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Buildnlearn-x &theme=darkhub&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
 
 
 <p align="center">
