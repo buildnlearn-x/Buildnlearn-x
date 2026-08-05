@@ -1,302 +1,222 @@
 <div align="center">
 
-# ⚠️ WARNING
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25&text=BUILDNLEARN-X%20OS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Operating%20System&descAlignY=58"/>
 
-```text
-═══════════════════════════════════════════════════════
-
-      THIS IS NOT A NORMAL GITHUB PROFILE
-
-            INITIALIZING AI CORE...
-
-═══════════════════════════════════════════════════════
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1800&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=ACCESS+GRANTED...;WELCOME+TO+BUILDNLEARN-X+OS;INITIALIZING+AI+CORE...;SYSTEM+ONLINE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=ACCESS+GRANTED...;Initializing+AI+Operating+System...;Loading+Neural+Core...;Welcome+Commander."/>
 
 </div>
 
 ---
 
-# > boot()
+# ⚠ SYSTEM BOOT
 
 ```text
-██████████████████████████████████████████████████ 100%
+═══════════════════════════════════════════════════════
 
-Loading Artificial Intelligence.............OK
+      BUILDNLEARN-X AI OPERATING SYSTEM
 
-Loading Neural Network......................OK
+═══════════════════════════════════════════════════════
 
-Loading Learning Engine.....................OK
+Boot Sequence....................... COMPLETE
 
-Loading GitHub Core.........................OK
+Loading AI Core..................... ██████████ 100%
 
-Loading Developer Profile...................OK
+Loading Neural Network.............. ██████████ 100%
 
-Loading Mission.............................OK
+Loading Security Layer.............. ██████████ 100%
 
-Loading Security............................OK
+Loading Developer Profile........... ██████████ 100%
 
-System Status : ONLINE
+Loading Knowledge Base.............. ██████████ 100%
 
-Access Level  : ROOT
+Status.............................. ONLINE
 
-Kernel Version: AI v3.0
-
+═══════════════════════════════════════════════════════
 ```
 
 ---
 
-# > whoami
+# 💻 whoami
 
 ```yaml
-Name      : Harsh Raj Singh
+Name:
+  Harsh Raj Singh
 
-Username  : buildnlearn-x
+Username:
+  buildnlearn-x
 
-Role      : AI Learner
+Role:
+  AI Learner
 
-Focus     : Python
-            Cybersecurity
-            Linux
-            Web Development
+Current Focus:
+  - Python
+  - Linux
+  - Cybersecurity
+  - Web Development
 
-Status    : Learning Every Day
+Mission:
+  Build technology that solves real problems.
 
-Mission   : Become One Of The Best AI Engineers
+System:
+  BUILDNLEARN-X OS
 
-OS        : BUILDNLEARN-X OS
-
-```
-
----
-
-# > system.status
-
-```text
-
-CPU
-
-████████████████░░░░ 82%
-
-Learning
-
-██████████████████░░ 91%
-
-Coffee
-
-██████████░░░░░░░░░░ 53%
-
-Sleep
-
-██████░░░░░░░░░░░░░░ 31%
-
-Debugging Skill
-
-███████████████████░ 96%
-
-Bug Generator
-
-████████████████████ 100%
-
+Status:
+  Learning • Building • Growing
 ```
 
 ---
 
 <div align="center">
 
-## SYSTEM STATUS
+### 🟢 AI CORE STATUS
 
-🟢 AI Core Online
-
-🟢 Neural Engine Stable
-
-🟢 Security Active
-
-🟢 Learning Mode Enabled
+| Module | Status |
+|--------|--------|
+| 🧠 Intelligence | Online |
+| 💻 Coding Engine | Running |
+| 🔒 Security | Enabled |
+| ☕ Coffee | Required |
+| 🚀 Motivation | Maximum |
 
 </div>
 
-# > neural.engine()
+---
+# < AI CORE DASHBOARD />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+The+Future...;Learning+Never+Stops...;Artificial+Intelligence+Mode+Enabled...;Welcome+Commander..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Neural+Engine+Online...;Scanning+Developer+Profile...;Synchronizing+Knowledge...;System+Ready." />
 
 </div>
 
 ---
 
-# > ai.brain
+## 🧠 AI CORE
 
 ```text
-
-                 Artificial Intelligence
-
-                         ●
-
-              ╱────────┼────────╲
-
-             ●         ●         ●
-
-        Python      Linux      Cyber
-
-             ╲         │         ╱
-
-              ●───────●───────●
-
-             HTML      CSS      Git
-
-                    │
-
-               Problem Solving
-
-                    │
-
-             Continuous Learning
-
+╔══════════════════════════════════════════════╗
+║                                              ║
+║            ◉  NEURAL NETWORK  ◉              ║
+║                                              ║
+║        Python      ████████████ 95%          ║
+║        Linux       █████████░░░ 80%          ║
+║        HTML/CSS    ███████████░ 90%          ║
+║        Git         ██████████░░ 88%          ║
+║        CyberSec    ████████░░░░ 72%          ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-# > skills.scan()
-
-```text
-
-Scanning Skills...
-
-█████████████████████████████████ 100%
-
-```
-
-| Skill | Progress |
-|-------|----------|
-| 🐍 Python | ████████████████████ 95% |
-| 🐧 Linux | ███████████████░░░░ 80% |
-| 🌐 HTML | ██████████████████░ 90% |
-| 🎨 CSS | ████████████████░░░ 85% |
-| 🗄️ MySQL | ███████████████░░░░ 80% |
-| 🐘 PHP | ██████████████░░░░░ 72% |
-| 🔐 Cybersecurity | █████████████░░░░░ 70% |
-| 🔧 Git | █████████████████░░ 88% |
-
----
-
-# > terminal
+## 💻 TERMINAL
 
 ```bash
+buildnlearn-x@ai-core:~$
 
-buildnlearn-x@AI-Core:~$
-
-whoami
+> whoami
 
 Harsh Raj Singh
 
-pwd
+> role
 
-/home/AI/Developer
+AI Learner
 
-uname -a
+> mission
 
-AI Operating System v3.0
+Learn.
+Build.
+Improve.
+Repeat.
 
-echo $MISSION
+> status
 
-Become an Elite AI Engineer
-
-systemctl status motivation
-
-● ACTIVE
-
+SYSTEM ONLINE
 ```
 
 ---
 
-# > mission.log
+## ⚡ LIVE SYSTEM STATUS
+
+| Module | Status |
+|--------|--------|
+| 🧠 Neural Engine | 🟢 Online |
+| ⚡ Performance | 98% |
+| 💻 Coding Mode | Active |
+| 📚 Learning | Running |
+| ☕ Coffee Level | Low |
+| 🚀 Motivation | Maximum |
+
+---
+
+## 🎯 CURRENT OBJECTIVE
 
 ```text
+[██████████████████░░] 90%
 
-MISSION STATUS
+✔ Learn Daily
 
-██████████████████░░░░ 84%
-
-Current Objective
-
-✔ Learn Everyday
-
-✔ Build Better
+✔ Build Real Projects
 
 ✔ Improve Problem Solving
 
 ✔ Stay Consistent
 
-⬜ Master Artificial Intelligence
-
+⬜ Master AI
 ```
 
 ---
 
 <div align="center">
 
-## AI CORE STATUS
+### ⚡ AI MESSAGE
 
-🟢 Learning Engine : ACTIVE
-
-🟢 Neural Network : ONLINE
-
-🟢 Brain Status : STABLE
-
-🟢 Developer Mode : ENABLED
+> *"Every commit is another step toward mastery."*
 
 </div>
 
-# > github.dashboard()
+---
+# < GITHUB AI DASHBOARD />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=buildnlearn-x&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=00F7FF&icon_color=8A2BE2"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=buildnlearn-x&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&icon_color=00E5FF&text_color=FFFFFF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=buildnlearn-x&theme=transparent&hide_border=true&stroke=8A2BE2&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildnlearn-x&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=FFFFFF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildnlearn-x&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=00F7FF"/>
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=buildnlearn-x&theme=transparent&hide_border=true&ring=8A2BE2&fire=00E5FF&currStreakLabel=FFFFFF"/>
 
 </div>
 
 ---
 
-# > achievement.system()
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=buildnlearn-x&theme=algolia&no-frame=true&no-bg=true&margin-w=12"/>
-
-</div>
-
----
-
-# > contribution.monitor()
+# < CONTRIBUTION ENGINE />
 
 ```text
+╔══════════════════════════════════════════════╗
 
-Contribution Scanner
+      CONTRIBUTION ENGINE : ACTIVE
 
-██████████████████████████████ 100%
+      Daily Commits ............ ██████████
 
-Checking Activity....
+      Learning Progress ........ █████████░
 
-Git Status.................ONLINE
+      Consistency .............. ██████████
 
-Repository Health..........GOOD
+      Open Source .............. ███████░░░
 
-Contribution Engine........ACTIVE
+      AI Development ........... ████████░░
 
-Snake Engine...............RUNNING
-
+╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-# > contribution.map()
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -308,7 +228,7 @@ srcset="https://raw.githubusercontent.com/buildnlearn-x/buildnlearn-x/output/git
 <source media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/buildnlearn-x/buildnlearn-x/output/github-contribution-grid-snake.svg">
 
-<img alt="snake"
+<img alt="Snake Animation"
 src="https://raw.githubusercontent.com/buildnlearn-x/buildnlearn-x/output/github-contribution-grid-snake.svg">
 
 </picture>
@@ -317,185 +237,284 @@ src="https://raw.githubusercontent.com/buildnlearn-x/buildnlearn-x/output/github
 
 ---
 
-# > activity.monitor()
-
-```text
-
-AI Activity Scanner
-
-█████████████████████████
-
-Python..............ACTIVE
-
-Linux...............ACTIVE
-
-GitHub..............ACTIVE
-
-Learning............ACTIVE
-
-Coffee..............LOW
-
-Sleep...............UNKNOWN
-
-```
-
----
-
-# > system.security()
-
-```yaml
-
-Firewall : ENABLED
-
-Threat Level : LOW
-
-Bug Detector : RUNNING
-
-Security Mode : MAXIMUM
-
-Authentication : VERIFIED
-
-AI Shield : ACTIVE
-
-```
-
-# > matrix.protocol()
+# 🏆 ACHIEVEMENT SYSTEM
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1800&pause=600&color=00FF99&center=true&vCenter=true&width=900&lines=Initializing+Matrix+Protocol...;Scanning+Neural+Signals...;Connection+Established...;AI+System+Stable..." />
+<img src="https://github-profile-trophy.vercel.app/?username=buildnlearn-x&theme=algolia&no-frame=true&margin-w=12&margin-h=12"/>
 
 </div>
 
 ---
 
-# > world.connection()
+# < AI PERFORMANCE />
+
+```yaml
+AI Core          : ONLINE
+
+GitHub Status    : HEALTHY
+
+Learning Mode    : ENABLED
+
+Debug Mode       : ACTIVE
+
+Performance      : 99%
+
+System Health    : EXCELLENT
+```
+
+---
+
+<div align="center">
+
+### 🚀 STATUS
+
+```
+Learning Never Stops.
+
+Build • Learn • Repeat
+```
+
+</div>
+
+---
+# < AI SECURITY CONSOLE />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+Firewall+Activated...;Scanning+Threats...;System+Protected...;No+Critical+Issues+Found."/>
+
+</div>
+
+---
+
+## 🛰 AI RADAR
 
 ```text
 
-                🌍 GLOBAL NETWORK
+                     ◉
 
-      INDIA  ●━━━━━━━━━━━━━━━━━━━━●  WORLD
+              ╭──────────────╮
 
-             Connection Stable
+           ◉                ◉
 
-             Latency : 0.02 ms
+        Python         Linux
 
-             AI Cloud : Connected
+             ╲         ╱
 
-             GitHub : Connected
+              ◉──────◉
 
-             Learning : Synced
+             Git     AI
+
+                 │
+
+          Cyber Security
+
+                 │
+
+             Web Development
 
 ```
 
 ---
 
-# > radar.scan()
-
-```text
-
-Scanning Environment...
-
-████████████████████████████████ 100%
-
-Detected
-
-Python.................██████████
-
-Linux..................████████░░
-
-Cybersecurity..........███████░░░
-
-HTML/CSS...............█████████░
-
-Git....................██████████
-
-AI.....................████████░░
-
-Status : SAFE
-
-```
-
----
-
-# > mission.control()
+## ⚡ SECURITY STATUS
 
 ```yaml
 
-CURRENT STATUS
+Threat Level :
 
-Developer : ONLINE
+🟢 LOW
 
-Brain Mode : FOCUSED
+Firewall :
 
-Coding Mode : ACTIVE
+██████████████████
 
-Debugging : ENABLED
+AI Shield :
 
-Creativity : MAXIMUM
+ACTIVE
 
-Coffee : REQUIRED ☕
+Monitoring :
+
+24 x 7
+
+Authentication :
+
+VERIFIED
 
 ```
 
 ---
 
-# > life.stats()
+## 👁 LIVE SCANNER
 
 ```text
 
-LIFE DASHBOARD
+Scanning Brain...
 
-Knowledge
+██████████████████████ 100%
 
-████████████████░░░░
+Python ............ OK
 
-Experience
+Git ............... OK
 
-███████████░░░░░░░░
+Linux ............. OK
 
-Discipline
+Cyber ............. OK
 
-██████████████████░░
+HTML/CSS .......... OK
 
-Consistency
+Problem Solving ... OK
 
-█████████████████░░░
-
-Curiosity
-
-████████████████████
+Learning .......... ACTIVE
 
 ```
 
 ---
 
-# > ai.logs()
+## 📡 SYSTEM TELEMETRY
+
+| Module | Value |
+|--------|------:|
+| CPU | 81% |
+| Memory | 68% |
+| Focus | 100% |
+| Creativity | 95% |
+| Curiosity | ∞ |
+| Bugs Fixed | Loading... |
+
+---
+
+## 🧬 AI DNA
+
+```text
+
+        AI
+
+        │
+
+ Python ───── Linux
+
+        │
+
+ Cyber ───── Git
+
+        │
+
+ HTML ───── CSS
+
+        │
+
+ Continuous Learning
+
+```
+
+---
+
+<div align="center">
+
+## 💜 CORE PRINCIPLE
+
+> **"Don't chase success. Build skills until success has no choice but to follow."**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8A2BE2"/>
+
+</div>
+
+---
+# < FINAL TRANSMISSION />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Mission+Running...;Future+Loading...;Artificial+Intelligence+Awaits...;Thank+You+For+Visiting."/>
+
+</div>
+
+---
+
+# 🌌 AI PHILOSOPHY
+
+```text
+
+Knowledge is Power.
+
+Consistency beats Talent.
+
+Discipline creates Freedom.
+
+Curiosity builds Innovation.
+
+Learning never ends.
+
+```
+
+---
+
+# ⚡ SYSTEM LOG
 
 ```bash
 
-[22:41] Boot sequence completed
+[SYSTEM] AI Core Started
 
-[22:42] Learning Python...
+[SYSTEM] Knowledge Synced
 
-[22:45] Solving Problems...
+[SYSTEM] GitHub Connected
 
-[22:50] Building Future...
+[SYSTEM] Learning Mode Enabled
 
-[22:55] Commit Pushed...
+[SYSTEM] Mission Active
 
-[23:00] Never Stop Learning.
+[SYSTEM] Future Ready
 
 ```
 
 ---
 
+# 🚀 CURRENT STATUS
+
+```yaml
+
+Operating System : BUILDNLEARN-X OS
+
+Mode : LEARNING
+
+Version : v1.0
+
+Status : ONLINE
+
+Next Upgrade : AI ENGINEER
+
+```
+
+---
+
+# 🌍 CONNECT
+
 <div align="center">
 
-## ⚡ SYSTEM MESSAGE
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-> "The future belongs to those who build it."
+<a href="https://www.linkedin.com/in/harsh-raj-singh-0673b7391">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💭 QUOTE
+
+<div align="center">
+
+> **"Every great engineer was once a beginner who refused to quit."**
 
 </div>
 
@@ -503,6 +522,10 @@ Curiosity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=gradient&customColorList=12,20,24,25"/>
+
+### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://komarev.com/ghpvc/?username=buildnlearn-x&style=for-the-badge&color=blueviolet"/>
 
 </div>
