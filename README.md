@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Harsh%20Raj%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%2C%20breaking%20things%2C%20learning%20always&descAlignY=55&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C2BD9,50:8A2BE2,100:00E5FF&text=HARSH%20RAJ%20SINGH&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=C%20%7C%20Python%20%7C%20PHP%20%7C%20MySQL%20Developer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=whoami+%3D%3E+Harsh+Raj+Singh;C+%7C+Python+%7C+PHP+%7C+MySQL;Currently+debugging+life...;Turning+%E2%98%95+into+code" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=SYSTEM+INITIALIZED...;whoami+%3D%3E+Harsh+Raj+Singh;Building+things%2C+breaking+things%2C+learning+always;Turning+%E2%98%95+into+code"/>
 
 </div>
 
@@ -10,19 +12,9 @@
 
 ### 🖥️ `~/harsh` — terminal intro
 
-```bash
-$ cat about_me.txt
-
-> Full-stack aspirant | C, Python, PHP & MySQL enthusiast
-> Believes clean code > clever code
-> Currently exploring: Web Dev, DBMS, DSA
-> Goal: Ship real projects, contribute to open-source, never stop learning
-
-$ status --current
-[🟢] Learning   → Web Development & Database Design
-[🟢] Building   → Side projects to sharpen fundamentals
-[🟡] Debugging  → My own life decisions, occasionally
-```
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=00FF66&background=0D1117&center=false&vCenter=true&multiline=true&repeat=true&width=650&height=220&lines=%24+cat+about_me.txt;%3E+Full-stack+aspirant+%7C+C%2C+Python%2C+PHP+%26+MySQL;%3E+Believes+clean+code+%3E+clever+code;%3E+Currently+exploring%3A+Web+Dev%2C+DBMS%2C+DSA;%3E+Goal%3A+Ship+real+projects%2C+contribute+to+open-source;%24+status+--current;%5B%F0%9F%9F%A2%5D+Learning+%E2%86%92+Web+Development+%26+DB+Design;%5B%F0%9F%9F%A2%5D+Building+%E2%86%92+Side+projects+to+sharpen+fundamentals;%5B%F0%9F%9F%A1%5D+Debugging+%E2%86%92+My+own+life+decisions" />
+</p>
 
 ---
 
